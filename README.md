@@ -80,6 +80,7 @@ Train users to recognize that public Wi-Fi means anyone on that network can pote
 
 What I Learned
 How quickly and easily plaintext credentials can be extracted from unencrypted network traffic
+
 Why protocol choice matters as much as password strength — a strong password means nothing if it travels in plaintext
 How to use Wireshark filters and TCP stream reconstruction for efficient traffic analysis
 The practical argument for enforcing encryption at every layer of a network stack
